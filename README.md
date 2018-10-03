@@ -37,4 +37,4 @@ Options:
 ```
 
 ## Example
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![](https://github.com/salemae/getHeaders/blob/master/screenshot.png)
