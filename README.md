@@ -13,6 +13,9 @@ pip install colorama
 ```
 ## Usage
 ```
+getHeader.py https://www.example.com
+```
+```
 Usage: getHeaders.py [OPTIONS] URI
 
   This script helps extract all the response headers and identifies some the
